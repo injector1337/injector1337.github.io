@@ -7,7 +7,7 @@
  * copyright 2022 @codewithsadee
  */
 
-background-image: url(https://cdn.discordapp.com/attachments/1069657000591495179/1080954745939836999/FivemWorlds.png);
+
 
 
 
@@ -23,6 +23,9 @@ background-image: url(https://cdn.discordapp.com/attachments/1069657000591495179
 
   /* gradient */
 
+  background-image: url(https://cdn.discordapp.com/attachments/1069657000591495179/1080954745939836999/FivemWorlds.png);
+
+  
   --bg-gradient-onyx: linear-gradient(
     to bottom right, 
     hsl(240, 1%, 25%) 3%, 
